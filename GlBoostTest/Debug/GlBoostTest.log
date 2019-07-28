@@ -1,0 +1,3 @@
+﻿  GlBoostTest.cpp
+e:\c++\glboosttest\glboosttest\glboosttest.cpp(78): warning C4244: 'return': conversion from 'uintmax_t' to 'size_t', possible loss of data
+  GlBoostTest.vcxproj -> E:\c++\GlBoostTest\Debug\GlBoostTest.exe

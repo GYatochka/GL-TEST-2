@@ -1,0 +1,4211 @@
+{
+"Name": "potoki"
+"Size":727134567 B
+"Created": Wed Jul 10 16:00:16 2019
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "1.txt"
+"Size": 3913B
+"Path": "e:\c++\potoki\1.txt"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Deikstra"
+"Size":44912254 B
+"Created": Mon Oct 22 18:49:14 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":36127744 B
+"Created": Mon Oct 22 18:49:14 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Deikstra"
+"Size":36127744 B
+"Created": Mon Oct 22 18:49:14 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":36127744 B
+"Created": Mon Oct 22 18:51:05 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 21504B
+"Path": "e:\c++\potoki\Deikstra\.vs\Deikstra\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 5304320B
+"Path": "e:\c++\potoki\Deikstra\.vs\Deikstra\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":30801920 B
+"Created": Mon Oct 22 18:51:05 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":30801920 B
+"Created": Mon Oct 22 18:51:05 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "7e99f443092772a"
+"Size":30801920 B
+"Created": Mon Oct 22 18:51:13 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 30801920B
+"Path": "e:\c++\potoki\Deikstra\.vs\Deikstra\v15\ipch\AutoPCH\7e99f443092772a\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":19456 B
+"Created": Mon Oct 22 18:49:01 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Deikstra.pdb"
+"Size": 19456B
+"Path": "e:\c++\potoki\Deikstra\Debug\Deikstra.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Deikstra"
+"Size":817332 B
+"Created": Mon Oct 22 18:49:01 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":805017 B
+"Created": Mon Oct 22 18:49:01 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Deikstra.log"
+"Size": 3892B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Deikstra.tlog"
+"Size":13773 B
+"Created": Mon Oct 22 18:49:01 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "cl.command.1.tlog"
+"Size": 612B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\cl.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 12576B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 412B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "Deikstra.lastbuildstate"
+"Size": 159B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\Deikstra.lastbuildstate"
+
+	},	
+{	"Type" : "File"
+"Name": "link-cvtres.read.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\link-cvtres.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link-cvtres.write.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\link-cvtres.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link-rc.read.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\link-rc.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link-rc.write.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\link-rc.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "unsuccessfulbuild"
+"Size": 0B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Deikstra.tlog\unsuccessfulbuild"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 173976B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "vc120.idb"
+"Size": 265216B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\vc120.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc120.pdb"
+"Size": 348160B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Debug\vc120.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Deikstra.vcxproj"
+"Size": 3848B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Deikstra.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "Deikstra.vcxproj.filters"
+"Size": 958B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Deikstra.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "Deikstra.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Deikstra.vcxproj.user"
+
+	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 7344B
+"Path": "e:\c++\potoki\Deikstra\Deikstra\Source.cpp"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Deikstra.sdf"
+"Size": 7929856B
+"Path": "e:\c++\potoki\Deikstra\Deikstra.sdf"
+
+	},	
+{	"Type" : "File"
+"Name": "Deikstra.sln"
+"Size": 970B
+"Path": "e:\c++\potoki\Deikstra\Deikstra.sln"
+
+	},	
+{	"Type" : "File"
+"Name": "Deikstra.v12.suo"
+"Size": 16896B
+"Path": "e:\c++\potoki\Deikstra\Deikstra.v12.suo"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Deykstra"
+"Size":77418447 B
+"Created": Sat Oct 20 13:04:00 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":74742272 B
+"Created": Sat Oct 20 12:35:40 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Deykstra"
+"Size":74742272 B
+"Created": Sat Oct 20 12:35:40 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":74742272 B
+"Created": Wed Oct 24 14:55:59 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 31232B
+"Path": "e:\c++\potoki\Deykstra\.vs\Deykstra\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 7667712B
+"Path": "e:\c++\potoki\Deykstra\.vs\Deykstra\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":67043328 B
+"Created": Sat Oct 20 12:36:06 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":67043328 B
+"Created": Sat Oct 20 14:45:43 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "824c7d1e7b1a527a"
+"Size":30605312 B
+"Created": Sat Oct 20 12:36:22 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 30605312B
+"Path": "e:\c++\potoki\Deykstra\.vs\Deykstra\v15\ipch\AutoPCH\824c7d1e7b1a527a\SOURCE.ipch"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "b33c6958e18d5f21"
+"Size":36438016 B
+"Created": Sat Oct 20 14:45:44 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE (4).ipch"
+"Size": 36438016B
+"Path": "e:\c++\potoki\Deykstra\.vs\Deykstra\v15\ipch\AutoPCH\b33c6958e18d5f21\SOURCE (4).ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":1822480 B
+"Created": Wed Oct 24 10:18:52 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Deykstra.exe"
+"Size": 88576B
+"Path": "e:\c++\potoki\Deykstra\Debug\Deykstra.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Deykstra.ilk"
+"Size": 812304B
+"Path": "e:\c++\potoki\Deykstra\Debug\Deykstra.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "Deykstra.pdb"
+"Size": 921600B
+"Path": "e:\c++\potoki\Deykstra\Debug\Deykstra.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Deykstra"
+"Size":852257 B
+"Created": Wed Oct 24 15:37:01 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":840692 B
+"Created": Wed Oct 24 15:37:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Deykstra.log"
+"Size": 855B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\Deykstra.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Deykstra.tlog"
+"Size":27586 B
+"Created": Wed Oct 24 15:37:01 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 612B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\Deykstra.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 21540B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\Deykstra.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 388B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\Deykstra.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "Deykstra.lastbuildstate"
+"Size": 198B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\Deykstra.tlog\Deykstra.lastbuildstate"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 1038B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\Deykstra.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 3448B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\Deykstra.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 362B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\Deykstra.tlog\link.write.1.tlog"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 215259B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 175104B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 421888B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Deykstra.vcxproj"
+"Size": 5948B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Deykstra.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "Deykstra.vcxproj.filters"
+"Size": 962B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Deykstra.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "Deykstra.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Deykstra.vcxproj.user"
+
+	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 4490B
+"Path": "e:\c++\potoki\Deykstra\Deykstra\Source.cpp"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Deykstra.sln"
+"Size": 1438B
+"Path": "e:\c++\potoki\Deykstra\Deykstra.sln"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "equation_system"
+"Size":61190101 B
+"Created": Tue Oct  2 21:45:41 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":46393856 B
+"Created": Tue Oct  2 21:45:04 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "equation_system"
+"Size":46393856 B
+"Created": Tue Oct  2 21:46:01 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v14"
+"Size":27648 B
+"Created": Tue Oct  2 21:45:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 27648B
+"Path": "e:\c++\potoki\equation_system\.vs\equation_system\v14\.suo"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":46366208 B
+"Created": Wed Oct 10 15:00:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 32256B
+"Path": "e:\c++\potoki\equation_system\.vs\equation_system\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 6291456B
+"Path": "e:\c++\potoki\equation_system\.vs\equation_system\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":40042496 B
+"Created": Tue Oct  2 21:49:55 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":40042496 B
+"Created": Tue Oct  2 21:49:55 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "b19d05b924de3eb3"
+"Size":40042496 B
+"Created": Tue Oct  2 21:49:58 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 40042496B
+"Path": "e:\c++\potoki\equation_system\.vs\equation_system\v15\ipch\AutoPCH\b19d05b924de3eb3\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":3245252 B
+"Created": Tue Oct  2 21:48:32 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "equation_system.exe"
+"Size": 97280B
+"Path": "e:\c++\potoki\equation_system\Debug\equation_system.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "equation_system.ilk"
+"Size": 1718468B
+"Path": "e:\c++\potoki\equation_system\Debug\equation_system.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "equation_system.pdb"
+"Size": 1429504B
+"Path": "e:\c++\potoki\equation_system\Debug\equation_system.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "equation_system"
+"Size":2214882 B
+"Created": Wed Oct 10 15:16:01 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":2203754 B
+"Created": Wed Oct 10 15:16:05 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "equation_system.log"
+"Size": 825B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\equation_system.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "equation_system.tlog"
+"Size":32367 B
+"Created": Wed Oct 10 15:16:02 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 1898B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\equation_system.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 22140B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\equation_system.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 500B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\equation_system.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "equation_system.lastbuildstate"
+"Size": 205B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\equation_system.tlog\equation_system.lastbuildstate"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 3646B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\equation_system.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 3504B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\equation_system.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 474B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\equation_system.tlog\link.write.1.tlog"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 304834B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "vc140.idb"
+"Size": 707584B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\vc140.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc140.pdb"
+"Size": 487424B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\vc140.pdb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 183296B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 487424B
+"Path": "e:\c++\potoki\equation_system\equation_system\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "equation_system.vcxproj"
+"Size": 5723B
+"Path": "e:\c++\potoki\equation_system\equation_system\equation_system.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "equation_system.vcxproj.filters"
+"Size": 958B
+"Path": "e:\c++\potoki\equation_system\equation_system\equation_system.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "equation_system.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\equation_system\equation_system\equation_system.vcxproj.user"
+
+	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 4282B
+"Path": "e:\c++\potoki\equation_system\equation_system\Source.cpp"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "equation_system.sln"
+"Size": 1327B
+"Path": "e:\c++\potoki\equation_system\equation_system.sln"
+
+	},	
+{	"Type" : "File"
+"Name": "equation_system.VC.db"
+"Size": 9334784B
+"Path": "e:\c++\potoki\equation_system\equation_system.VC.db"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Floyd"
+"Size":39576832 B
+"Created": Sat Oct 20 12:02:01 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":36778496 B
+"Created": Sat Oct 20 11:57:51 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Floyd"
+"Size":36778496 B
+"Created": Sat Oct 20 11:57:51 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":36778496 B
+"Created": Wed Oct 24 14:52:22 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 29184B
+"Path": "e:\c++\potoki\Floyd\.vs\Floyd\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 6144000B
+"Path": "e:\c++\potoki\Floyd\.vs\Floyd\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":30605312 B
+"Created": Sat Oct 20 12:00:03 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":30605312 B
+"Created": Sat Oct 20 12:00:03 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "58ded0c0e7699f45"
+"Size":30605312 B
+"Created": Sat Oct 20 12:00:08 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 30605312B
+"Path": "e:\c++\potoki\Floyd\.vs\Floyd\v15\ipch\AutoPCH\58ded0c0e7699f45\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":1818480 B
+"Created": Wed Oct 24 15:15:34 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Floyd.exe"
+"Size": 116224B
+"Path": "e:\c++\potoki\Floyd\Debug\Floyd.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Floyd.ilk"
+"Size": 797040B
+"Path": "e:\c++\potoki\Floyd\Debug\Floyd.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "Floyd.pdb"
+"Size": 905216B
+"Path": "e:\c++\potoki\Floyd\Debug\Floyd.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Floyd"
+"Size":978427 B
+"Created": Wed Oct 24 15:33:49 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":966997 B
+"Created": Wed Oct 24 15:33:55 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Floyd.log"
+"Size": 899B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\Floyd.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Floyd.tlog"
+"Size":27615 B
+"Created": Wed Oct 24 15:33:52 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 588B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\Floyd.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 21528B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\Floyd.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 340B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\Floyd.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "Floyd.lastbuildstate"
+"Size": 195B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\Floyd.tlog\Floyd.lastbuildstate"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 990B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\Floyd.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 3660B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\Floyd.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 314B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\Floyd.tlog\link.write.1.tlog"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 308723B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 175104B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 454656B
+"Path": "e:\c++\potoki\Floyd\Floyd\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Floyd.vcxproj"
+"Size": 5945B
+"Path": "e:\c++\potoki\Floyd\Floyd\Floyd.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "Floyd.vcxproj.filters"
+"Size": 962B
+"Path": "e:\c++\potoki\Floyd\Floyd\Floyd.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "Floyd.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\Floyd\Floyd\Floyd.vcxproj.user"
+
+	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 4122B
+"Path": "e:\c++\potoki\Floyd\Floyd\Source.cpp"
+
+	},	
+{	"Type" : "File"
+"Name": "void"
+"Size": 236B
+"Path": "e:\c++\potoki\Floyd\Floyd\void"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Floyd.sln"
+"Size": 1429B
+"Path": "e:\c++\potoki\Floyd\Floyd.sln"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "matrix_addition_MPI"
+"Size":49908721 B
+"Created": Wed Dec  5 10:53:04 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":38646784 B
+"Created": Wed Dec  5 10:40:41 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "matrix_addition_MPI"
+"Size":38646784 B
+"Created": Wed Dec  5 10:41:54 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v14"
+"Size":27136 B
+"Created": Wed Dec  5 10:40:41 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 27136B
+"Path": "e:\c++\potoki\matrix_addition_MPI\.vs\matrix_addition_MPI\v14\.suo"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":38619648 B
+"Created": Wed Dec  5 11:03:46 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 27136B
+"Path": "e:\c++\potoki\matrix_addition_MPI\.vs\matrix_addition_MPI\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 5693440B
+"Path": "e:\c++\potoki\matrix_addition_MPI\.vs\matrix_addition_MPI\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":32899072 B
+"Created": Wed Dec  5 10:49:51 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":32899072 B
+"Created": Wed Dec  5 10:49:51 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "624856e309d9a6dd"
+"Size":32899072 B
+"Created": Wed Dec  5 10:56:20 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 32899072B
+"Path": "e:\c++\potoki\matrix_addition_MPI\.vs\matrix_addition_MPI\v15\ipch\AutoPCH\624856e309d9a6dd\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":923244 B
+"Created": Wed Dec  5 10:40:41 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.exe"
+"Size": 49152B
+"Path": "e:\c++\potoki\matrix_addition_MPI\Debug\matrix_addition_MPI.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.ilk"
+"Size": 362092B
+"Path": "e:\c++\potoki\matrix_addition_MPI\Debug\matrix_addition_MPI.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.pdb"
+"Size": 512000B
+"Path": "e:\c++\potoki\matrix_addition_MPI\Debug\matrix_addition_MPI.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "matrix_addition_MPI"
+"Size":1338442 B
+"Created": Wed Dec  5 10:53:02 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":772897 B
+"Created": Wed Dec  5 10:40:41 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "matrix_a.1E40FE9F.tlog"
+"Size":22952 B
+"Created": Wed Dec  5 10:40:41 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 752B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\matrix_a.1E40FE9F.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 15882B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\matrix_a.1E40FE9F.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 628B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\matrix_a.1E40FE9F.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 1420B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\matrix_a.1E40FE9F.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 3460B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\matrix_a.1E40FE9F.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 602B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\matrix_a.1E40FE9F.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.lastbuildstate"
+"Size": 208B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\matrix_a.1E40FE9F.tlog\matrix_addition_MPI.lastbuildstate"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.log"
+"Size": 243B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\matrix_addition_MPI.log"
+
+	},	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 54406B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "vc140.idb"
+"Size": 338944B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\vc140.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc140.pdb"
+"Size": 356352B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Debug\vc140.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.vcxproj"
+"Size": 6581B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\matrix_addition_MPI.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.vcxproj.filters"
+"Size": 958B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\matrix_addition_MPI.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\matrix_addition_MPI.vcxproj.user"
+
+	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 2897B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\Source.cpp"
+
+	},	
+{	"Type" : "Folder"
+"Name": "x64"
+"Size":554944 B
+"Created": Wed Dec  5 10:53:02 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":554944 B
+"Created": Wed Dec  5 10:56:35 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "matrix_a.1E40FE9F.tlog"
+"Size":20567 B
+"Created": Wed Dec  5 10:56:37 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 768B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 18990B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 588B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link-cvtres.read.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\link-cvtres.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link-cvtres.write.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\link-cvtres.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link-rc.read.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\link-rc.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link-rc.write.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\link-rc.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 2B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.lastbuildstate"
+"Size": 207B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\matrix_addition_MPI.lastbuildstate"
+
+	},	
+{	"Type" : "File"
+"Name": "unsuccessfulbuild"
+"Size": 0B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_a.1E40FE9F.tlog\unsuccessfulbuild"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.log"
+"Size": 61B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\matrix_addition_MPI.log"
+
+	},	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 43820B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 150528B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 339968B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI\x64\Debug\vc141.pdb"
+
+	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.sln"
+"Size": 1339B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI.sln"
+
+	},	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.VC.db"
+"Size": 8937472B
+"Path": "e:\c++\potoki\matrix_addition_MPI\matrix_addition_MPI.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "x64"
+"Size":61440 B
+"Created": Wed Dec  5 10:53:04 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":61440 B
+"Created": Wed Dec  5 11:02:50 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "matrix_addition_MPI.pdb"
+"Size": 61440B
+"Path": "e:\c++\potoki\matrix_addition_MPI\x64\Debug\matrix_addition_MPI.pdb"
+
+	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "File"
+"Name": "Potoki.rar"
+"Size": 17740477B
+"Path": "e:\c++\potoki\Potoki.rar"
+
+	},	
+{	"Type" : "Folder"
+"Name": "prima"
+"Size":56104852 B
+"Created": Wed Nov 14 11:59:44 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":42642432 B
+"Created": Wed Nov 14 11:59:44 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "prima"
+"Size":42642432 B
+"Created": Wed Nov 14 12:00:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v14"
+"Size":28160 B
+"Created": Wed Nov 14 11:59:44 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 28160B
+"Path": "e:\c++\potoki\prima\.vs\prima\v14\.suo"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":42614272 B
+"Created": Sat Nov 17 18:25:59 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 32256B
+"Path": "e:\c++\potoki\prima\.vs\prima\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 6144000B
+"Path": "e:\c++\potoki\prima\.vs\prima\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":36438016 B
+"Created": Wed Nov 14 12:03:37 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":36438016 B
+"Created": Wed Nov 14 12:03:37 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "33bdf531ee00e0a"
+"Size":36438016 B
+"Created": Wed Nov 14 12:03:42 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 36438016B
+"Path": "e:\c++\potoki\prima\.vs\prima\v15\ipch\AutoPCH\33bdf531ee00e0a\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":2258156 B
+"Created": Wed Nov 14 12:12:27 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "prima.exe"
+"Size": 85504B
+"Path": "e:\c++\potoki\prima\Debug\prima.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "prima.ilk"
+"Size": 1152748B
+"Path": "e:\c++\potoki\prima\Debug\prima.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "prima.pdb"
+"Size": 1019904B
+"Path": "e:\c++\potoki\prima\Debug\prima.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "prima"
+"Size":2056599 B
+"Created": Wed Nov 14 15:32:16 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":2046289 B
+"Created": Wed Nov 14 15:32:20 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "prima.log"
+"Size": 695B
+"Path": "e:\c++\potoki\prima\prima\Debug\prima.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "prima.tlog"
+"Size":28941 B
+"Created": Wed Nov 14 15:32:17 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 1092B
+"Path": "e:\c++\potoki\prima\prima\Debug\prima.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 21534B
+"Path": "e:\c++\potoki\prima\prima\Debug\prima.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 340B
+"Path": "e:\c++\potoki\prima\prima\Debug\prima.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 2042B
+"Path": "e:\c++\potoki\prima\prima\Debug\prima.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 3424B
+"Path": "e:\c++\potoki\prima\prima\Debug\prima.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 314B
+"Path": "e:\c++\potoki\prima\prima\Debug\prima.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "prima.lastbuildstate"
+"Size": 195B
+"Path": "e:\c++\potoki\prima\prima\Debug\prima.tlog\prima.lastbuildstate"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 200077B
+"Path": "e:\c++\potoki\prima\prima\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "vc140.idb"
+"Size": 715776B
+"Path": "e:\c++\potoki\prima\prima\Debug\vc140.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc140.pdb"
+"Size": 503808B
+"Path": "e:\c++\potoki\prima\prima\Debug\vc140.pdb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 175104B
+"Path": "e:\c++\potoki\prima\prima\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 421888B
+"Path": "e:\c++\potoki\prima\prima\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "prima.vcxproj"
+"Size": 5713B
+"Path": "e:\c++\potoki\prima\prima\prima.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "prima.vcxproj.filters"
+"Size": 958B
+"Path": "e:\c++\potoki\prima\prima\prima.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "prima.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\prima\prima\prima.vcxproj.user"
+
+	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 3474B
+"Path": "e:\c++\potoki\prima\prima\Source.cpp"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "prima.sln"
+"Size": 1297B
+"Path": "e:\c++\potoki\prima\prima.sln"
+
+	},	
+{	"Type" : "File"
+"Name": "prima.VC.db"
+"Size": 9146368B
+"Path": "e:\c++\potoki\prima\prima.VC.db"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "SLAR"
+"Size":75962115 B
+"Created": Sat Sep 29 16:57:31 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":73694720 B
+"Created": Sat Sep 29 16:57:30 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "SLAR"
+"Size":73694720 B
+"Created": Sat Sep 29 16:57:30 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":73694720 B
+"Created": Sun Sep 30 12:03:47 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 28160B
+"Path": "e:\c++\potoki\SLAR\.vs\SLAR\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 5246976B
+"Path": "e:\c++\potoki\SLAR\.vs\SLAR\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":68419584 B
+"Created": Sat Sep 29 16:57:31 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":68419584 B
+"Created": Sat Sep 29 16:59:50 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "71048b351896a831"
+"Size":34209792 B
+"Created": Sat Sep 29 17:00:29 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 34209792B
+"Path": "e:\c++\potoki\SLAR\.vs\SLAR\v15\ipch\AutoPCH\71048b351896a831\SOURCE.ipch"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "df703773e97aba09"
+"Size":34209792 B
+"Created": Sat Sep 29 16:57:31 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 34209792B
+"Path": "e:\c++\potoki\SLAR\.vs\SLAR\v15\ipch\AutoPCH\df703773e97aba09\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":1419408 B
+"Created": Sat Sep 29 17:03:56 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SLAR.exe"
+"Size": 55296B
+"Path": "e:\c++\potoki\SLAR\Debug\SLAR.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "SLAR.ilk"
+"Size": 655504B
+"Path": "e:\c++\potoki\SLAR\Debug\SLAR.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "SLAR.pdb"
+"Size": 708608B
+"Path": "e:\c++\potoki\SLAR\Debug\SLAR.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "SLAR"
+"Size":846561 B
+"Created": Sat Sep 29 17:30:45 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":838046 B
+"Created": Sat Sep 29 17:32:29 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SLAR.log"
+"Size": 70B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\SLAR.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "SLAR.tlog"
+"Size":50872 B
+"Created": Sat Sep 29 17:32:29 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 1174B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\SLAR.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 39606B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\SLAR.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 678B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\SLAR.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 1978B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\SLAR.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 6616B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\SLAR.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 626B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\SLAR.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "SLAR.lastbuildstate"
+"Size": 194B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\SLAR.tlog\SLAR.lastbuildstate"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 75424B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 265216B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 446464B
+"Path": "e:\c++\potoki\SLAR\SLAR\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "SLAR.vcxproj"
+"Size": 5944B
+"Path": "e:\c++\potoki\SLAR\SLAR\SLAR.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "SLAR.vcxproj.filters"
+"Size": 962B
+"Path": "e:\c++\potoki\SLAR\SLAR\SLAR.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "SLAR.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\SLAR\SLAR\SLAR.vcxproj.user"
+
+	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 1444B
+"Path": "e:\c++\potoki\SLAR\SLAR\Source.cpp"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "SLAR.sln"
+"Size": 1426B
+"Path": "e:\c++\potoki\SLAR\SLAR.sln"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task1"
+"Size":85366114 B
+"Created": Sun Sep  9 12:46:12 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".git"
+"Size":3242111 B
+"Created": Sun Sep  9 16:51:27 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "COMMIT_EDITMSG"
+"Size": 39B
+"Path": "e:\c++\potoki\Task1\.git\COMMIT_EDITMSG"
+
+	},	
+{	"Type" : "File"
+"Name": "config"
+"Size": 236B
+"Path": "e:\c++\potoki\Task1\.git\config"
+
+	},	
+{	"Type" : "File"
+"Name": "description"
+"Size": 73B
+"Path": "e:\c++\potoki\Task1\.git\description"
+
+	},	
+{	"Type" : "File"
+"Name": "HEAD"
+"Size": 23B
+"Path": "e:\c++\potoki\Task1\.git\HEAD"
+
+	},	
+{	"Type" : "Folder"
+"Name": "hooks"
+"Size":18844 B
+"Created": Sun Sep  9 12:46:12 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "applypatch-msg.sample"
+"Size": 478B
+"Path": "e:\c++\potoki\Task1\.git\hooks\applypatch-msg.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "commit-msg.sample"
+"Size": 896B
+"Path": "e:\c++\potoki\Task1\.git\hooks\commit-msg.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "fsmonitor-watchman.sample"
+"Size": 3327B
+"Path": "e:\c++\potoki\Task1\.git\hooks\fsmonitor-watchman.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "post-update.sample"
+"Size": 189B
+"Path": "e:\c++\potoki\Task1\.git\hooks\post-update.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "pre-applypatch.sample"
+"Size": 424B
+"Path": "e:\c++\potoki\Task1\.git\hooks\pre-applypatch.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "pre-commit.sample"
+"Size": 1638B
+"Path": "e:\c++\potoki\Task1\.git\hooks\pre-commit.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "pre-push.sample"
+"Size": 1348B
+"Path": "e:\c++\potoki\Task1\.git\hooks\pre-push.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "pre-rebase.sample"
+"Size": 4898B
+"Path": "e:\c++\potoki\Task1\.git\hooks\pre-rebase.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "pre-receive.sample"
+"Size": 544B
+"Path": "e:\c++\potoki\Task1\.git\hooks\pre-receive.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "prepare-commit-msg.sample"
+"Size": 1492B
+"Path": "e:\c++\potoki\Task1\.git\hooks\prepare-commit-msg.sample"
+
+	},	
+{	"Type" : "File"
+"Name": "update.sample"
+"Size": 3610B
+"Path": "e:\c++\potoki\Task1\.git\hooks\update.sample"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "index"
+"Size": 1611B
+"Path": "e:\c++\potoki\Task1\.git\index"
+
+	},	
+{	"Type" : "Folder"
+"Name": "info"
+"Size":240 B
+"Created": Sun Sep  9 12:46:12 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "exclude"
+"Size": 240B
+"Path": "e:\c++\potoki\Task1\.git\info\exclude"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "logs"
+"Size":1490 B
+"Created": Sun Sep  9 12:47:22 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "HEAD"
+"Size": 517B
+"Path": "e:\c++\potoki\Task1\.git\logs\HEAD"
+
+	},	
+{	"Type" : "Folder"
+"Name": "refs"
+"Size":973 B
+"Created": Sun Sep  9 12:48:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "heads"
+"Size":517 B
+"Created": Sun Sep  9 12:47:22 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "master"
+"Size": 517B
+"Path": "e:\c++\potoki\Task1\.git\logs\refs\heads\master"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "remotes"
+"Size":456 B
+"Created": Sun Sep  9 12:48:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "origin"
+"Size":456 B
+"Created": Sun Sep  9 12:48:29 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "master"
+"Size": 456B
+"Path": "e:\c++\potoki\Task1\.git\logs\refs\remotes\origin\master"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "objects"
+"Size":3219473 B
+"Created": Sun Sep  9 13:06:04 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "01"
+"Size":185 B
+"Created": Sun Sep  9 13:06:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "1528a19e8dff21beafa8866f3ff4f6f7ffefd9"
+"Size": 185B
+"Path": "e:\c++\potoki\Task1\.git\objects\01\1528a19e8dff21beafa8866f3ff4f6f7ffefd9"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "05"
+"Size":48 B
+"Created": Sun Sep  9 13:06:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "124cc570e639780adcb6c8540895c1fe23d481"
+"Size": 48B
+"Path": "e:\c++\potoki\Task1\.git\objects\05\124cc570e639780adcb6c8540895c1fe23d481"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "07"
+"Size":7932 B
+"Created": Sun Sep  9 13:05:54 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "09ac9e71697d2b6cf5fbb023e6dbd364399344"
+"Size": 7747B
+"Path": "e:\c++\potoki\Task1\.git\objects\07\09ac9e71697d2b6cf5fbb023e6dbd364399344"
+
+	},	
+{	"Type" : "File"
+"Name": "ad5f6c8a6e2cc371c78987471039a7a16a55bd"
+"Size": 185B
+"Path": "e:\c++\potoki\Task1\.git\objects\07\ad5f6c8a6e2cc371c78987471039a7a16a55bd"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "09"
+"Size":478 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "e5131b411007b0ac240445fa4b1e66cc8d3ad0"
+"Size": 478B
+"Path": "e:\c++\potoki\Task1\.git\objects\09\e5131b411007b0ac240445fa4b1e66cc8d3ad0"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "0a"
+"Size":2612573 B
+"Created": Sun Sep  9 12:46:51 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "60f5ef9c1ae99f8b0eb38bfa504e7dec5986e7"
+"Size": 2612573B
+"Path": "e:\c++\potoki\Task1\.git\objects\0a\60f5ef9c1ae99f8b0eb38bfa504e7dec5986e7"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "0b"
+"Size":294 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "4b69d18f56876601d66ea4fd65cc18678bd8b6"
+"Size": 294B
+"Path": "e:\c++\potoki\Task1\.git\objects\0b\4b69d18f56876601d66ea4fd65cc18678bd8b6"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "1c"
+"Size":7755 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "df0610e00986665de42ed82b7dfa1a97c8f474"
+"Size": 7755B
+"Path": "e:\c++\potoki\Task1\.git\objects\1c\df0610e00986665de42ed82b7dfa1a97c8f474"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "22"
+"Size":179 B
+"Created": Sun Sep  9 13:06:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "2c1dfa306c47213ce825baf1a0d45078779a86"
+"Size": 179B
+"Path": "e:\c++\potoki\Task1\.git\objects\22\2c1dfa306c47213ce825baf1a0d45078779a86"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "38"
+"Size":4483 B
+"Created": Sun Sep  9 12:46:51 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "b6abfde83917a85682b6c591313e3b18ebb9b7"
+"Size": 4483B
+"Path": "e:\c++\potoki\Task1\.git\objects\38\b6abfde83917a85682b6c591313e3b18ebb9b7"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "41"
+"Size":479 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "d453aea579c4c6866144cd9a7e4977822ac8a2"
+"Size": 479B
+"Path": "e:\c++\potoki\Task1\.git\objects\41\d453aea579c4c6866144cd9a7e4977822ac8a2"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "43"
+"Size":179 B
+"Created": Sun Sep  9 13:06:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "3ec7b630bf189494b6602868ba5e9d6ed84bce"
+"Size": 179B
+"Path": "e:\c++\potoki\Task1\.git\objects\43\3ec7b630bf189494b6602868ba5e9d6ed84bce"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "48"
+"Size":178 B
+"Created": Sun Sep  9 12:47:22 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "a6d0f3cb5d27458b1db330b900e7c1219f908f"
+"Size": 178B
+"Path": "e:\c++\potoki\Task1\.git\objects\48\a6d0f3cb5d27458b1db330b900e7c1219f908f"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "53"
+"Size":80 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "3cb3ba47150d66254995d8eb32960fa6381f53"
+"Size": 80B
+"Path": "e:\c++\potoki\Task1\.git\objects\53\3cb3ba47150d66254995d8eb32960fa6381f53"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "5e"
+"Size":47 B
+"Created": Sun Sep  9 13:00:48 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "eba4a2c270e179e8276838b40a5814c745dd25"
+"Size": 47B
+"Path": "e:\c++\potoki\Task1\.git\objects\5e\eba4a2c270e179e8276838b40a5814c745dd25"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "61"
+"Size":143 B
+"Created": Sun Sep  9 12:47:22 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "c4fed932323644623a17da3074ca7706630742"
+"Size": 143B
+"Path": "e:\c++\potoki\Task1\.git\objects\61\c4fed932323644623a17da3074ca7706630742"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "70"
+"Size":49743 B
+"Created": Sun Sep  9 13:00:30 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "fda10b24ac7bed04654af9df8b1c253b454200"
+"Size": 49743B
+"Path": "e:\c++\potoki\Task1\.git\objects\70\fda10b24ac7bed04654af9df8b1c253b454200"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "7c"
+"Size":140699 B
+"Created": Sun Sep  9 13:05:54 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "17b3a90a4d5128fa7338d8d1d81216f8e5f7d2"
+"Size": 140699B
+"Path": "e:\c++\potoki\Task1\.git\objects\7c\17b3a90a4d5128fa7338d8d1d81216f8e5f7d2"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "87"
+"Size":246 B
+"Created": Sun Sep  9 12:47:22 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "929e1c38510f08cc4bb938aac0f31fa1e95642"
+"Size": 246B
+"Path": "e:\c++\potoki\Task1\.git\objects\87\929e1c38510f08cc4bb938aac0f31fa1e95642"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "92"
+"Size":186 B
+"Created": Sun Sep  9 12:47:22 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "30e298071b39afd1d8adea395b8daf1aebf56c"
+"Size": 186B
+"Path": "e:\c++\potoki\Task1\.git\objects\92\30e298071b39afd1d8adea395b8daf1aebf56c"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "93"
+"Size":176 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "b0cc5e3751e2e881c9415ff520ac1531f3ad95"
+"Size": 176B
+"Path": "e:\c++\potoki\Task1\.git\objects\93\b0cc5e3751e2e881c9415ff520ac1531f3ad95"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "94"
+"Size":140141 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "80ae854a80470d855eb47043a22a010ef8b713"
+"Size": 140141B
+"Path": "e:\c++\potoki\Task1\.git\objects\94\80ae854a80470d855eb47043a22a010ef8b713"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "97"
+"Size":530 B
+"Created": Sun Sep  9 13:05:54 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "ef398fe7004dbb49ca165155bd6637c5f66fc3"
+"Size": 530B
+"Path": "e:\c++\potoki\Task1\.git\objects\97\ef398fe7004dbb49ca165155bd6637c5f66fc3"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "a1"
+"Size":114 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "53f24dec1c32fe3e0ba9a5ca16cc5dacbeb207"
+"Size": 114B
+"Path": "e:\c++\potoki\Task1\.git\objects\a1\53f24dec1c32fe3e0ba9a5ca16cc5dacbeb207"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "aa"
+"Size":170 B
+"Created": Sun Sep  9 13:00:48 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "0db4f9266e83f62f2671db04e3bd8e3057238b"
+"Size": 170B
+"Path": "e:\c++\potoki\Task1\.git\objects\aa\0db4f9266e83f62f2671db04e3bd8e3057238b"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "bb"
+"Size":113 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "fc8620d0d0af7d46680aaf169cf67dfc4b065b"
+"Size": 113B
+"Path": "e:\c++\potoki\Task1\.git\objects\bb\fc8620d0d0af7d46680aaf169cf67dfc4b065b"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "be"
+"Size":154 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "2507870701e486845b81bbf2a525758fa0e980"
+"Size": 154B
+"Path": "e:\c++\potoki\Task1\.git\objects\be\2507870701e486845b81bbf2a525758fa0e980"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "c1"
+"Size":514 B
+"Created": Sun Sep  9 13:00:30 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "5c6f79c4153f06a26282c1b8addd0ffa309d25"
+"Size": 514B
+"Path": "e:\c++\potoki\Task1\.git\objects\c1\5c6f79c4153f06a26282c1b8addd0ffa309d25"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "c6"
+"Size":49788 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "27394ed24c9af049b84fe279d6decf8289d023"
+"Size": 49788B
+"Path": "e:\c++\potoki\Task1\.git\objects\c6\27394ed24c9af049b84fe279d6decf8289d023"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "c9"
+"Size":1359 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "4e8249a9be14ececd96471f36f5fbd0dafba5c"
+"Size": 1359B
+"Path": "e:\c++\potoki\Task1\.git\objects\c9\4e8249a9be14ececd96471f36f5fbd0dafba5c"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "d3"
+"Size":531 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "b65fd847c451655cc13af9c830fee7fbd96cdb"
+"Size": 531B
+"Path": "e:\c++\potoki\Task1\.git\objects\d3\b65fd847c451655cc13af9c830fee7fbd96cdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "da"
+"Size":7751 B
+"Created": Sun Sep  9 13:00:30 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "42913a3cde13b1a217baaefdaca73b8478ea12"
+"Size": 7751B
+"Path": "e:\c++\potoki\Task1\.git\objects\da\42913a3cde13b1a217baaefdaca73b8478ea12"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "db"
+"Size":140700 B
+"Created": Sun Sep  9 13:00:30 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "8b5d1e8fe9291dce7c290c4d2dad79b69114a4"
+"Size": 140700B
+"Path": "e:\c++\potoki\Task1\.git\objects\db\8b5d1e8fe9291dce7c290c4d2dad79b69114a4"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "e2"
+"Size":49817 B
+"Created": Sun Sep  9 13:05:53 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "4222251994a1f9479a2244269382449bafda9b"
+"Size": 49817B
+"Path": "e:\c++\potoki\Task1\.git\objects\e2\4222251994a1f9479a2244269382449bafda9b"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "e9"
+"Size":392 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "c46c03a229a10fabf199475eeec69470abe763"
+"Size": 392B
+"Path": "e:\c++\potoki\Task1\.git\objects\e9\c46c03a229a10fabf199475eeec69470abe763"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "f4"
+"Size":1091 B
+"Created": Sun Sep  9 12:47:07 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "65c38a8dc6db40bc99458ffb5e9aa4f2704223"
+"Size": 1091B
+"Path": "e:\c++\potoki\Task1\.git\objects\f4\65c38a8dc6db40bc99458ffb5e9aa4f2704223"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "f9"
+"Size":177 B
+"Created": Sun Sep  9 13:00:48 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "2e8209e830e8316f8a9781b4131a8c4774b060"
+"Size": 177B
+"Path": "e:\c++\potoki\Task1\.git\objects\f9\2e8209e830e8316f8a9781b4131a8c4774b060"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "fc"
+"Size":48 B
+"Created": Sun Sep  9 12:47:22 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "976cef3142cb21a90abf48ced4a4a1116089c2"
+"Size": 48B
+"Path": "e:\c++\potoki\Task1\.git\objects\fc\976cef3142cb21a90abf48ced4a4a1116089c2"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "info"
+"Size":0 B
+"Created": Sun Sep  9 12:46:12 2018
+
+	"Childrens": [	
+]	},	
+{	"Type" : "Folder"
+"Name": "pack"
+"Size":0 B
+"Created": Sun Sep  9 12:46:12 2018
+
+	"Childrens": [	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "refs"
+"Size":82 B
+"Created": Sun Sep  9 12:48:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "heads"
+"Size":41 B
+"Created": Sun Sep  9 13:06:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "master"
+"Size": 41B
+"Path": "e:\c++\potoki\Task1\.git\refs\heads\master"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "remotes"
+"Size":41 B
+"Created": Sun Sep  9 12:48:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "origin"
+"Size":41 B
+"Created": Sun Sep  9 16:51:40 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "master"
+"Size": 41B
+"Path": "e:\c++\potoki\Task1\.git\refs\remotes\origin\master"
+
+	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "tags"
+"Size":0 B
+"Created": Sun Sep  9 12:46:12 2018
+
+	"Childrens": [	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":79931904 B
+"Created": Sun Sep  9 11:04:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Task1"
+"Size":79931904 B
+"Created": Sun Sep  9 11:04:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":79931904 B
+"Created": Wed Dec  5 15:04:26 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 35328B
+"Path": "e:\c++\potoki\Task1\.vs\Task1\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 7872512B
+"Path": "e:\c++\potoki\Task1\.vs\Task1\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":72024064 B
+"Created": Sun Sep  9 11:05:32 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":72024064 B
+"Created": Sun Sep  9 11:09:21 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "59367b7f3399915c"
+"Size":35258368 B
+"Created": Sun Sep  9 11:05:37 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 35258368B
+"Path": "e:\c++\potoki\Task1\.vs\Task1\v15\ipch\AutoPCH\59367b7f3399915c\SOURCE.ipch"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "96325f8d82358fe9"
+"Size":36765696 B
+"Created": Sat Sep 15 15:30:03 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 36765696B
+"Path": "e:\c++\potoki\Task1\.vs\Task1\v15\ipch\AutoPCH\96325f8d82358fe9\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":1218148 B
+"Created": Wed Dec  5 15:04:05 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Task1.exe"
+"Size": 80896B
+"Path": "e:\c++\potoki\Task1\Debug\Task1.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Task1.ilk"
+"Size": 526948B
+"Path": "e:\c++\potoki\Task1\Debug\Task1.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "Task1.pdb"
+"Size": 610304B
+"Path": "e:\c++\potoki\Task1\Debug\Task1.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task1"
+"Size":972522 B
+"Created": Wed Dec  5 15:03:49 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":961587 B
+"Created": Wed Dec  5 15:04:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 213603B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "Task1.log"
+"Size": 73B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\Task1.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Task1.tlog"
+"Size":28039 B
+"Created": Wed Dec  5 15:04:05 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 588B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\Task1.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 21756B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\Task1.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 340B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\Task1.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 990B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\Task1.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 3856B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\Task1.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 314B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\Task1.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "Task1.lastbuildstate"
+"Size": 195B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\Task1.tlog\Task1.lastbuildstate"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 183296B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 536576B
+"Path": "e:\c++\potoki\Task1\Task1\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 3863B
+"Path": "e:\c++\potoki\Task1\Task1\Source.cpp"
+
+	},	
+{	"Type" : "File"
+"Name": "Task1.vcxproj"
+"Size": 5945B
+"Path": "e:\c++\potoki\Task1\Task1\Task1.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "Task1.vcxproj.filters"
+"Size": 962B
+"Path": "e:\c++\potoki\Task1\Task1\Task1.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "Task1.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\Task1\Task1\Task1.vcxproj.user"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Task1.sln"
+"Size": 1429B
+"Path": "e:\c++\potoki\Task1\Task1.sln"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task2"
+"Size":45505382 B
+"Created": Sun Sep 16 21:12:23 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":42965504 B
+"Created": Sun Sep 16 21:11:13 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Task2"
+"Size":42965504 B
+"Created": Sun Sep 16 21:11:13 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":42965504 B
+"Created": Sun Sep 16 21:12:21 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 23040B
+"Path": "e:\c++\potoki\Task2\.vs\Task2\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 6176768B
+"Path": "e:\c++\potoki\Task2\.vs\Task2\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":36765696 B
+"Created": Sun Sep 16 21:12:05 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":36765696 B
+"Created": Sun Sep 16 21:21:33 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "42afddefe722bc4a"
+"Size":36765696 B
+"Created": Sun Sep 16 21:12:06 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 36765696B
+"Path": "e:\c++\potoki\Task2\.vs\Task2\v15\ipch\AutoPCH\42afddefe722bc4a\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":1650616 B
+"Created": Sun Sep 16 21:12:26 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Task2.exe"
+"Size": 81408B
+"Path": "e:\c++\potoki\Task2\Debug\Task2.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2.ilk"
+"Size": 680376B
+"Path": "e:\c++\potoki\Task2\Debug\Task2.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2.pdb"
+"Size": 888832B
+"Path": "e:\c++\potoki\Task2\Debug\Task2.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task2"
+"Size":887833 B
+"Created": Sun Sep 16 21:34:50 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":876610 B
+"Created": Sun Sep 16 21:21:19 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 210207B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2.log"
+"Size": 1074B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\Task2.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Task2.tlog"
+"Size":27377 B
+"Created": Sun Sep 16 21:21:20 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 588B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\Task2.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 21756B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\Task2.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 340B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\Task2.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 990B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\Task2.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 3194B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\Task2.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 314B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\Task2.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2.lastbuildstate"
+"Size": 195B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\Task2.tlog\Task2.lastbuildstate"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 175104B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 462848B
+"Path": "e:\c++\potoki\Task2\Task2\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 4151B
+"Path": "e:\c++\potoki\Task2\Task2\Source.cpp"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2.vcxproj"
+"Size": 5945B
+"Path": "e:\c++\potoki\Task2\Task2\Task2.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2.vcxproj.filters"
+"Size": 962B
+"Path": "e:\c++\potoki\Task2\Task2\Task2.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\Task2\Task2\Task2.vcxproj.user"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Task2.sln"
+"Size": 1429B
+"Path": "e:\c++\potoki\Task2\Task2.sln"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task2_MAIN"
+"Size":44126946 B
+"Created": Sun Sep 16 23:40:15 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":42584576 B
+"Created": Sun Sep 16 21:39:32 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Task2_MAIN"
+"Size":42584576 B
+"Created": Sun Sep 16 21:39:32 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":42584576 B
+"Created": Sat Oct 20 13:15:51 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 31232B
+"Path": "e:\c++\potoki\Task2_MAIN\.vs\Task2_MAIN\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 6115328B
+"Path": "e:\c++\potoki\Task2_MAIN\.vs\Task2_MAIN\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":36438016 B
+"Created": Sun Sep 16 21:40:59 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":36438016 B
+"Created": Sun Sep 16 21:41:07 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "3be9254cd48a3e8e"
+"Size":36438016 B
+"Created": Sat Oct 20 13:15:47 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 36438016B
+"Path": "e:\c++\potoki\Task2_MAIN\.vs\Task2_MAIN\v15\ipch\AutoPCH\3be9254cd48a3e8e\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":804092 B
+"Created": Sat Oct 20 13:14:59 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Task2_MAIN.exe"
+"Size": 40448B
+"Path": "e:\c++\potoki\Task2_MAIN\Debug\Task2_MAIN.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2_MAIN.ilk"
+"Size": 333564B
+"Path": "e:\c++\potoki\Task2_MAIN\Debug\Task2_MAIN.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2_MAIN.pdb"
+"Size": 430080B
+"Path": "e:\c++\potoki\Task2_MAIN\Debug\Task2_MAIN.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task2_MAIN"
+"Size":736834 B
+"Created": Sat Oct 20 13:15:48 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":726343 B
+"Created": Sat Oct 20 13:14:58 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 13077B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2_MAIN.log"
+"Size": 88B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\Task2_MAIN.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Task2_MAIN.tlog"
+"Size":9690 B
+"Created": Sat Oct 20 13:15:00 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 628B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\Task2_MAIN.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 3084B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\Task2_MAIN.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 420B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\Task2_MAIN.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 1070B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\Task2_MAIN.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 3894B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\Task2_MAIN.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 394B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\Task2_MAIN.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2_MAIN.lastbuildstate"
+"Size": 200B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\Task2_MAIN.tlog\Task2_MAIN.lastbuildstate"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 265216B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 438272B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 3415B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Source.cpp"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2_MAIN.vcxproj"
+"Size": 5949B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Task2_MAIN.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2_MAIN.vcxproj.filters"
+"Size": 962B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Task2_MAIN.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "Task2_MAIN.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN\Task2_MAIN.vcxproj.user"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Task2_MAIN.sln"
+"Size": 1444B
+"Path": "e:\c++\potoki\Task2_MAIN\Task2_MAIN.sln"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task4_WPF"
+"Size":1838978 B
+"Created": Sat Sep 29 11:23:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":1678904 B
+"Created": Sat Sep 29 11:23:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Task4_WPF"
+"Size":1678904 B
+"Created": Sat Sep 29 11:23:29 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":1678904 B
+"Created": Sat Sep 29 11:24:16 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 55808B
+"Path": "e:\c++\potoki\Task4_WPF\.vs\Task4_WPF\v15\.suo"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Server"
+"Size":1623096 B
+"Created": Sat Sep 29 11:24:16 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "sqlite3"
+"Size":1623096 B
+"Created": Sat Sep 29 11:24:16 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "db.lock"
+"Size": 0B
+"Path": "e:\c++\potoki\Task4_WPF\.vs\Task4_WPF\v15\Server\sqlite3\db.lock"
+
+	},	
+{	"Type" : "File"
+"Name": "storage.ide"
+"Size": 4096B
+"Path": "e:\c++\potoki\Task4_WPF\.vs\Task4_WPF\v15\Server\sqlite3\storage.ide"
+
+	},	
+{	"Type" : "File"
+"Name": "storage.ide-shm"
+"Size": 32768B
+"Path": "e:\c++\potoki\Task4_WPF\.vs\Task4_WPF\v15\Server\sqlite3\storage.ide-shm"
+
+	},	
+{	"Type" : "File"
+"Name": "storage.ide-wal"
+"Size": 1586232B
+"Path": "e:\c++\potoki\Task4_WPF\.vs\Task4_WPF\v15\Server\sqlite3\storage.ide-wal"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task4_WPF"
+"Size":158948 B
+"Created": Sat Sep 29 12:08:35 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "App.config"
+"Size": 189B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\App.config"
+
+	},	
+{	"Type" : "File"
+"Name": "App.xaml"
+"Size": 372B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\App.xaml"
+
+	},	
+{	"Type" : "File"
+"Name": "App.xaml.cs"
+"Size": 342B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\App.xaml.cs"
+
+	},	
+{	"Type" : "Folder"
+"Name": "bin"
+"Size":45757 B
+"Created": Sat Sep 29 11:23:26 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":45757 B
+"Created": Sat Sep 29 11:58:35 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Task4_WPF.exe"
+"Size": 11264B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\bin\Debug\Task4_WPF.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.exe.config"
+"Size": 189B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\bin\Debug\Task4_WPF.exe.config"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.pdb"
+"Size": 34304B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\bin\Debug\Task4_WPF.pdb"
+
+	},	
+]	},	
+]	},	
+{	"Type" : "File"
+"Name": "MainWindow.xaml"
+"Size": 1954B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\MainWindow.xaml"
+
+	},	
+{	"Type" : "File"
+"Name": "MainWindow.xaml.cs"
+"Size": 2608B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\MainWindow.xaml.cs"
+
+	},	
+{	"Type" : "Folder"
+"Name": "obj"
+"Size":91346 B
+"Created": Sat Sep 29 11:23:26 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":91346 B
+"Created": Sat Sep 29 12:08:35 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "App.g.cs"
+"Size": 2316B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\App.g.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "App.g.i.cs"
+"Size": 2316B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\App.g.i.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "DesignTimeResolveAssemblyReferencesInput.cache"
+"Size": 7235B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "MainWindow.g.cs"
+"Size": 7487B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\MainWindow.g.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "MainWindow.g.i.cs"
+"Size": 7487B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\MainWindow.g.i.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.csproj.CoreCompileInputs.cache"
+"Size": 42B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF.csproj.CoreCompileInputs.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.csproj.FileListAbsolute.txt"
+"Size": 1036B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF.csproj.FileListAbsolute.txt"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.csproj.GenerateResource.cache"
+"Size": 954B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF.csproj.GenerateResource.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.csprojAssemblyReference.cache"
+"Size": 13714B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF.csprojAssemblyReference.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.exe"
+"Size": 11264B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.g.resources"
+"Size": 2420B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF.g.resources"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.pdb"
+"Size": 34304B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF.pdb"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.Properties.Resources.resources"
+"Size": 180B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF.Properties.Resources.resources"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF_MarkupCompile.cache"
+"Size": 233B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF_MarkupCompile.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF_MarkupCompile.i.cache"
+"Size": 232B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF_MarkupCompile.i.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF_MarkupCompile.i.lref"
+"Size": 63B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF_MarkupCompile.i.lref"
+
+	},	
+{	"Type" : "File"
+"Name": "Task4_WPF_MarkupCompile.lref"
+"Size": 63B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\Task4_WPF_MarkupCompile.lref"
+
+	},	
+{	"Type" : "File"
+"Name": "TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs"
+"Size": 0B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs"
+"Size": 0B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs"
+"Size": 0B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs"
+
+	},	
+{	"Type" : "Folder"
+"Name": "TempPE"
+"Size":0 B
+"Created": Sat Sep 29 11:23:34 2018
+
+	"Childrens": [	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Properties"
+"Size":12199 B
+"Created": Sat Sep 29 11:23:25 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "AssemblyInfo.cs"
+"Size": 2442B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\Properties\AssemblyInfo.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "Resources.Designer.cs"
+"Size": 2848B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\Properties\Resources.Designer.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "Resources.resx"
+"Size": 5612B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\Properties\Resources.resx"
+
+	},	
+{	"Type" : "File"
+"Name": "Settings.Designer.cs"
+"Size": 1096B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\Properties\Settings.Designer.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "Settings.settings"
+"Size": 201B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\Properties\Settings.settings"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.csproj"
+"Size": 4181B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF\Task4_WPF.csproj"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Task4_WPF.sln"
+"Size": 1126B
+"Path": "e:\c++\potoki\Task4_WPF\Task4_WPF.sln"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task_3"
+"Size":49383677 B
+"Created": Thu Sep 27 23:03:07 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":46804480 B
+"Created": Wed Sep 26 09:57:41 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Task_3"
+"Size":46804480 B
+"Created": Wed Sep 26 09:57:42 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":46804480 B
+"Created": Thu Sep 27 22:32:40 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 36352B
+"Path": "e:\c++\potoki\Task_3\.vs\Task_3\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 6725632B
+"Path": "e:\c++\potoki\Task_3\.vs\Task_3\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":40042496 B
+"Created": Wed Sep 26 10:01:33 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":40042496 B
+"Created": Wed Sep 26 15:15:47 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "73bde4422814bdc1"
+"Size":1638400 B
+"Created": Wed Sep 26 15:15:48 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "FRAME.ipch"
+"Size": 1638400B
+"Path": "e:\c++\potoki\Task_3\.vs\Task_3\v15\ipch\AutoPCH\73bde4422814bdc1\FRAME.ipch"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "8cb0d32ac7d505bc"
+"Size":36765696 B
+"Created": Wed Sep 26 10:01:39 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 36765696B
+"Path": "e:\c++\potoki\Task_3\.vs\Task_3\v15\ipch\AutoPCH\8cb0d32ac7d505bc\SOURCE.ipch"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "bd0e62e6850b416f"
+"Size":1638400 B
+"Created": Wed Sep 26 10:04:08 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "FRAME.ipch"
+"Size": 1638400B
+"Path": "e:\c++\potoki\Task_3\.vs\Task_3\v15\ipch\AutoPCH\bd0e62e6850b416f\FRAME.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":1808044 B
+"Created": Wed Sep 26 10:01:47 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Task_3.exe"
+"Size": 84992B
+"Path": "e:\c++\potoki\Task_3\Debug\Task_3.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_3.ilk"
+"Size": 817836B
+"Path": "e:\c++\potoki\Task_3\Debug\Task_3.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_3.pdb"
+"Size": 905216B
+"Path": "e:\c++\potoki\Task_3\Debug\Task_3.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task_3"
+"Size":769721 B
+"Created": Thu Sep 27 23:40:33 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":759959 B
+"Created": Thu Sep 27 23:40:56 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 77846B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\Source.obj"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_3.log"
+"Size": 331B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\Task_3.log"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Task_3.tlog"
+"Size":27446 B
+"Created": Thu Sep 27 23:40:52 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 596B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\Task_3.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 21760B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\Task_3.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 356B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\Task_3.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 1006B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\Task_3.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 3202B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\Task_3.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 330B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\Task_3.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_3.lastbuildstate"
+"Size": 196B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\Task_3.tlog\Task_3.lastbuildstate"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 175104B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 479232B
+"Path": "e:\c++\potoki\Task_3\Task_3\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 2690B
+"Path": "e:\c++\potoki\Task_3\Task_3\Source.cpp"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_3.vcxproj"
+"Size": 5945B
+"Path": "e:\c++\potoki\Task_3\Task_3\Task_3.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_3.vcxproj.filters"
+"Size": 962B
+"Path": "e:\c++\potoki\Task_3\Task_3\Task_3.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_3.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\Task_3\Task_3\Task_3.vcxproj.user"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Task_3.sln"
+"Size": 1432B
+"Path": "e:\c++\potoki\Task_3\Task_3.sln"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task_4"
+"Size":1788305 B
+"Created": Sun Sep 23 19:32:11 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":1672272 B
+"Created": Sun Sep 23 19:32:11 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Task_4"
+"Size":1672272 B
+"Created": Sun Sep 23 19:32:11 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":1672272 B
+"Created": Sun Sep 23 19:32:33 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 45056B
+"Path": "e:\c++\potoki\Task_4\.vs\Task_4\v15\.suo"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Server"
+"Size":1627216 B
+"Created": Sun Sep 23 19:32:33 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "sqlite3"
+"Size":1627216 B
+"Created": Sun Sep 23 19:32:33 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "db.lock"
+"Size": 0B
+"Path": "e:\c++\potoki\Task_4\.vs\Task_4\v15\Server\sqlite3\db.lock"
+
+	},	
+{	"Type" : "File"
+"Name": "storage.ide"
+"Size": 4096B
+"Path": "e:\c++\potoki\Task_4\.vs\Task_4\v15\Server\sqlite3\storage.ide"
+
+	},	
+{	"Type" : "File"
+"Name": "storage.ide-shm"
+"Size": 32768B
+"Path": "e:\c++\potoki\Task_4\.vs\Task_4\v15\Server\sqlite3\storage.ide-shm"
+
+	},	
+{	"Type" : "File"
+"Name": "storage.ide-wal"
+"Size": 1590352B
+"Path": "e:\c++\potoki\Task_4\.vs\Task_4\v15\Server\sqlite3\storage.ide-wal"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Task_4"
+"Size":114916 B
+"Created": Wed Sep 26 15:25:40 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "App.config"
+"Size": 189B
+"Path": "e:\c++\potoki\Task_4\Task_4\App.config"
+
+	},	
+{	"Type" : "Folder"
+"Name": "bin"
+"Size":34493 B
+"Created": Sun Sep 23 19:32:10 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":34493 B
+"Created": Sun Sep 23 19:38:58 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Task_4.exe"
+"Size": 8192B
+"Path": "e:\c++\potoki\Task_4\Task_4\bin\Debug\Task_4.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.exe.config"
+"Size": 189B
+"Path": "e:\c++\potoki\Task_4\Task_4\bin\Debug\Task_4.exe.config"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.pdb"
+"Size": 26112B
+"Path": "e:\c++\potoki\Task_4\Task_4\bin\Debug\Task_4.pdb"
+
+	},	
+]	},	
+]	},	
+{	"Type" : "File"
+"Name": "Form1.cs"
+"Size": 763B
+"Path": "e:\c++\potoki\Task_4\Task_4\Form1.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "Form1.Designer.cs"
+"Size": 2520B
+"Path": "e:\c++\potoki\Task_4\Task_4\Form1.Designer.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "Form1.resx"
+"Size": 5817B
+"Path": "e:\c++\potoki\Task_4\Task_4\Form1.resx"
+
+	},	
+{	"Type" : "Folder"
+"Name": "obj"
+"Size":55772 B
+"Created": Sun Sep 23 19:32:10 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":55772 B
+"Created": Sun Sep 23 19:44:49 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "DesignTimeResolveAssemblyReferences.cache"
+"Size": 831B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\DesignTimeResolveAssemblyReferences.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "DesignTimeResolveAssemblyReferencesInput.cache"
+"Size": 7108B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.csproj.CoreCompileInputs.cache"
+"Size": 42B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.csproj.FileListAbsolute.txt"
+"Size": 625B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\Task_4.csproj.FileListAbsolute.txt"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.csproj.GenerateResource.cache"
+"Size": 1012B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\Task_4.csproj.GenerateResource.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.csprojAssemblyReference.cache"
+"Size": 11490B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\Task_4.csprojAssemblyReference.cache"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.exe"
+"Size": 8192B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\Task_4.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.Form1.resources"
+"Size": 180B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\Task_4.Form1.resources"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.pdb"
+"Size": 26112B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\Task_4.pdb"
+
+	},	
+{	"Type" : "File"
+"Name": "Task_4.Properties.Resources.resources"
+"Size": 180B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\Task_4.Properties.Resources.resources"
+
+	},	
+{	"Type" : "File"
+"Name": "TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs"
+"Size": 0B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs"
+"Size": 0B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs"
+"Size": 0B
+"Path": "e:\c++\potoki\Task_4\Task_4\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs"
+
+	},	
+{	"Type" : "Folder"
+"Name": "TempPE"
+"Size":0 B
+"Created": Sun Sep 23 19:32:12 2018
+
+	"Childrens": [	
+]	},	
+]	},	
+]	},	
+{	"Type" : "File"
+"Name": "Program.cs"
+"Size": 529B
+"Path": "e:\c++\potoki\Task_4\Task_4\Program.cs"
+
+	},	
+{	"Type" : "Folder"
+"Name": "Properties"
+"Size":11233 B
+"Created": Sun Sep 23 19:32:10 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "AssemblyInfo.cs"
+"Size": 1437B
+"Path": "e:\c++\potoki\Task_4\Task_4\Properties\AssemblyInfo.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "Resources.Designer.cs"
+"Size": 2842B
+"Path": "e:\c++\potoki\Task_4\Task_4\Properties\Resources.Designer.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "Resources.resx"
+"Size": 5612B
+"Path": "e:\c++\potoki\Task_4\Task_4\Properties\Resources.resx"
+
+	},	
+{	"Type" : "File"
+"Name": "Settings.Designer.cs"
+"Size": 1093B
+"Path": "e:\c++\potoki\Task_4\Task_4\Properties\Settings.Designer.cs"
+
+	},	
+{	"Type" : "File"
+"Name": "Settings.settings"
+"Size": 249B
+"Path": "e:\c++\potoki\Task_4\Task_4\Properties\Settings.settings"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Task_4.csproj"
+"Size": 3600B
+"Path": "e:\c++\potoki\Task_4\Task_4\Task_4.csproj"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Task_4.sln"
+"Size": 1117B
+"Path": "e:\c++\potoki\Task_4\Task_4.sln"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "ThreadsAndMatrixAdding"
+"Size":76307453 B
+"Created": Wed Dec  5 15:11:11 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": ".vs"
+"Size":73581056 B
+"Created": Wed Dec  5 15:11:10 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "ThreadsAndMatrixAdding"
+"Size":73581056 B
+"Created": Wed Dec  5 15:11:10 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "v15"
+"Size":73581056 B
+"Created": Wed Dec  5 15:11:31 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": ".suo"
+"Size": 37376B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\.vs\ThreadsAndMatrixAdding\v15\.suo"
+
+	},	
+{	"Type" : "File"
+"Name": "Browse.VC.db"
+"Size": 6172672B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\.vs\ThreadsAndMatrixAdding\v15\Browse.VC.db"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ipch"
+"Size":67371008 B
+"Created": Wed Dec  5 15:11:10 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "AutoPCH"
+"Size":67371008 B
+"Created": Wed Dec  5 15:12:03 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "cca1ebbab7a7fbc9"
+"Size":30605312 B
+"Created": Wed Dec  5 15:11:10 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 30605312B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\.vs\ThreadsAndMatrixAdding\v15\ipch\AutoPCH\cca1ebbab7a7fbc9\SOURCE.ipch"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "e5509a2520d77f69"
+"Size":36765696 B
+"Created": Wed Dec  5 15:12:04 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "SOURCE.ipch"
+"Size": 36765696B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\.vs\ThreadsAndMatrixAdding\v15\ipch\AutoPCH\e5509a2520d77f69\SOURCE.ipch"
+
+	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":1442820 B
+"Created": Wed Dec  5 15:12:33 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "ThreadsAndMatrixAdding.exe"
+"Size": 121856B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\Debug\ThreadsAndMatrixAdding.exe"
+
+	},	
+{	"Type" : "File"
+"Name": "ThreadsAndMatrixAdding.ilk"
+"Size": 636932B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\Debug\ThreadsAndMatrixAdding.ilk"
+
+	},	
+{	"Type" : "File"
+"Name": "ThreadsAndMatrixAdding.pdb"
+"Size": 684032B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\Debug\ThreadsAndMatrixAdding.pdb"
+
+	},	
+]	},	
+{	"Type" : "Folder"
+"Name": "ThreadsAndMatrixAdding"
+"Size":1282097 B
+"Created": Wed Dec  5 15:11:11 2018
+
+	"Childrens": [	
+{	"Type" : "Folder"
+"Name": "Debug"
+"Size":1270304 B
+"Created": Wed Dec  5 15:12:32 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "Source.obj"
+"Size": 369172B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\Source.obj"
+
+	},	
+{	"Type" : "Folder"
+"Name": "ThreadsA.DEEAD038.tlog"
+"Size":58256 B
+"Created": Wed Dec  5 15:12:33 2018
+
+	"Childrens": [	
+{	"Type" : "File"
+"Name": "CL.command.1.tlog"
+"Size": 1538B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\ThreadsA.DEEAD038.tlog\CL.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.read.1.tlog"
+"Size": 43628B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\ThreadsA.DEEAD038.tlog\CL.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "CL.write.1.tlog"
+"Size": 1406B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\ThreadsA.DEEAD038.tlog\CL.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.command.1.tlog"
+"Size": 2706B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\ThreadsA.DEEAD038.tlog\link.command.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.read.1.tlog"
+"Size": 7412B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\ThreadsA.DEEAD038.tlog\link.read.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "link.write.1.tlog"
+"Size": 1354B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\ThreadsA.DEEAD038.tlog\link.write.1.tlog"
+
+	},	
+{	"Type" : "File"
+"Name": "ThreadsAndMatrixAdding.lastbuildstate"
+"Size": 212B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\ThreadsA.DEEAD038.tlog\ThreadsAndMatrixAdding.lastbuildstate"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "ThreadsAndMatrixAdding.log"
+"Size": 124B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\ThreadsAndMatrixAdding.log"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.idb"
+"Size": 289792B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\vc141.idb"
+
+	},	
+{	"Type" : "File"
+"Name": "vc141.pdb"
+"Size": 552960B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Debug\vc141.pdb"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "Source.cpp"
+"Size": 4704B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\Source.cpp"
+
+	},	
+{	"Type" : "File"
+"Name": "ThreadsAndMatrixAdding.vcxproj"
+"Size": 5962B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding.vcxproj"
+
+	},	
+{	"Type" : "File"
+"Name": "ThreadsAndMatrixAdding.vcxproj.filters"
+"Size": 962B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding.vcxproj.filters"
+
+	},	
+{	"Type" : "File"
+"Name": "ThreadsAndMatrixAdding.vcxproj.user"
+"Size": 165B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding.vcxproj.user"
+
+	},	
+]	},	
+{	"Type" : "File"
+"Name": "ThreadsAndMatrixAdding.sln"
+"Size": 1480B
+"Path": "e:\c++\potoki\ThreadsAndMatrixAdding\ThreadsAndMatrixAdding.sln"
+
+	},	
+]	},	
+]
+}
